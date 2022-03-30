@@ -3,6 +3,7 @@ content_type: resource
 description: Slide presentation of Lectures 6 and 7.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-34-waste-containment-and-remediation-technology-spring-2004/5591590507dabbc062770d5dbb3f8df5_lecture06_07a.pdf
 file_type: application/pdf
+parent_uid: 285e7c0a-3c47-a1b7-ea83-f80f96a90c43
 resourcetype: Document
 title: lecture06_07a.pdf
 uid: 55915905-07da-bbc0-6277-0d5dbb3f8df5
