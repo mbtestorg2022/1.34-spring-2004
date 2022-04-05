@@ -3,6 +3,11 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-34-waste-containment-and-remediation-technology-spring-2004/389084530c3226bb761d3edbe30b72b4_hw_1_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 parent_uid: db4fc3e2-dbdd-1387-1ffe-1a0562fc31e7
 resourcetype: Document
 title: hw_1_sol.pdf

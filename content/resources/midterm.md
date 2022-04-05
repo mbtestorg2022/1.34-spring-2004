@@ -3,6 +3,11 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-34-waste-containment-and-remediation-technology-spring-2004/c6e0e43c375cb2dfc22de8385cd962c0_midterm.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 parent_uid: 734551f7-978e-baf3-aef1-db3161f66295
 resourcetype: Document
 title: midterm.pdf
